@@ -54,5 +54,5 @@ working_basket_list = [
 
 conditions = None
 
-#Пусть сохранения .xlsx
+#Путь сохранения .xlsx
 xls_file_name='xlsx_goods.xlsx'
